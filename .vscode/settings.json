@@ -1,0 +1,8 @@
+{
+  "nuxt.isNuxtApp": false,
+  "material-icon-theme.activeIconPack": "nest",
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "glassit.alpha": 245,
+  "workbench.iconTheme": "material-icon-theme",
+  "polacode.backgroundColor": "#6633CC",
+}
